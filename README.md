@@ -2,4 +2,4 @@
 playing with git
 
 - one
-- bone
+- done
